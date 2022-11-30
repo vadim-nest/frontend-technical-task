@@ -46,7 +46,7 @@ export const products = [
     ],
     supplierName: "Ixta Belfrage",
     price: "35",
-    soldOut: false,
+    soldOut: true,
     serves: "2 people",
     dishes: "2 DISHES"
   },
@@ -100,7 +100,7 @@ export const products = [
     ],
     supplierName: "José Pizarro",
     price: "49",
-    soldOut: false,
+    soldOut: true,
     serves: "2 people",
     dishes: "4 dishes"
   },
