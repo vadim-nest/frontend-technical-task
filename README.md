@@ -8,7 +8,7 @@ This task isn't designed to take a huge amount of time (1 - 2 hours max). We're 
 
 Once completed, please send us a link to your repository.
 
-Any questions, please email [jordan@dishpatch.co.uk](mailto:jordan@dishpatch.co.uk)
+Any questions, please email [ollie@dishpatch.co.uk](mailto:ollie@dishpatch.co.uk)
 
 Good luck! 🚀
 
