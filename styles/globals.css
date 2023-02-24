@@ -35,3 +35,7 @@ a {
   font-stretch: 25% 151%;
   font-display: swap;
 }
+
+.image-transition {
+  transition: transform 0.5s ease-out;
+}
